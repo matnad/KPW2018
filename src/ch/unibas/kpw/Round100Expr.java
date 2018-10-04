@@ -19,7 +19,7 @@ public class Round100Expr {
         int out_x = in_x  / 100 * 100 + (in_x % 100 >= 50 ? 1 : 0) * 100 - (in_x % 100 < -50 ? 1 : 0) * 100;
 
 
-        // Print results
+        // Print result
         System.out.println(out_x);
     }
 }
