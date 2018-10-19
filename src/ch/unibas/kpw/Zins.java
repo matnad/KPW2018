@@ -5,7 +5,6 @@ public class Zins {
 	public static void main(String[] args) {
 		int jahre = getAmount(3.5);
 		System.out.println(jahre);
-
 	}
 	
 	static int getAmount(double p) {
