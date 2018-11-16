@@ -1,0 +1,14 @@
+"Java Konzepte (KPW)"
+"Muster Max" 5
+"VordemWald Max" 4
+END 
+
+"Informatik I"
+"Muster Max" 6
+"VordemWald Max" 4
+END 
+
+"Informatik II"
+"Muster Max" 5
+"VordemWald Max" 3
+END 
